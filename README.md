@@ -39,7 +39,6 @@ SQL, and an interactive **Tableau** dashboard.
 - ~40% revenue spike in November → seasonal marketing signal.
 - R$15.4M total revenue analyzed.
 
-> Figures describe what the analysis demonstrates on this public dataset.
 
 ## Repository structure
 ```
