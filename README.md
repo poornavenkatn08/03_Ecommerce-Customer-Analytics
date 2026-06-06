@@ -4,7 +4,7 @@ Customer segmentation and revenue-opportunity analysis on the Brazilian
 E-Commerce (Olist) dataset, combining **RFM scoring**, **K-Means clustering**,
 SQL, and an interactive **Tableau** dashboard.
 
-**🔗 [Live Tableau dashboard][https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/E-CommerceCustomerAnalyticsDashboard/Dashboard1]**
+**🔗 [Live Tableau dashboard](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/E-CommerceCustomerAnalyticsDashboard/Dashboard1)**
 
 ---
 
