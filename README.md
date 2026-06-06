@@ -4,7 +4,7 @@ Customer segmentation and revenue-opportunity analysis on the Brazilian
 E-Commerce (Olist) dataset, combining **RFM scoring**, **K-Means clustering**,
 SQL, and an interactive **Tableau** dashboard.
 
-**🔗 [Live Tableau dashboard]([https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/E-CommerceCustomerAnalyticsDashboard/Dashboard1])**
+**🔗 [Live Tableau dashboard][https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/E-CommerceCustomerAnalyticsDashboard/Dashboard1]**
 
 ---
 
@@ -50,7 +50,7 @@ notebooks/
 sql/                            # table schemas + RFM (NTILE) queries
 data/ or exports/               # rfm_analysis_with_id.csv, customer_geography.csv, monthly_trend.csv
 ```
-*(Adjust to match your actual folder names.)*
+
 
 ## Tech stack
 Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn) · SQL · Tableau Public
